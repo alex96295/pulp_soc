@@ -67,7 +67,7 @@ jtag_pulp:
   commit: v0.1
   domain: [soc]
 riscv:
-  commit: b2a175a74530adafb3ba90f92e6cbcd81b2e043a
+  commit: pulpissimov340nibble
   domain: [cluster, soc]
 ibex:
   commit: e65a27e14dda7bb3b09cadc4e9232305fd451cec
