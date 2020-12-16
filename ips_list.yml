@@ -67,11 +67,9 @@ jtag_pulp:
   commit: v0.1
   domain: [soc]
 riscv:
-  #commit: pulpissimov340nibble
-  commit: pulpissimo-v3.4.0
-  #group: alex96295
-  #domain: [cluster, soc]
-  domain: [soc]
+  commit: pulpissimov340nibble
+  domain: [cluster, soc]
+  group: alex96295
 ibex:
   commit: e65a27e14dda7bb3b09cadc4e9232305fd451cec
   group: lowRISC
