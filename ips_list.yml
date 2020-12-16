@@ -66,7 +66,7 @@ fpnew:
 jtag_pulp:
   commit: v0.1
   domain: [soc]
-riscv:
+cv32e40p:
   commit: pulpissimov340nibble
   domain: [cluster, soc]
   group: alex96295
